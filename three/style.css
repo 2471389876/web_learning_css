@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-weight: 400;
+}
+a{
+    text-decoration:none;
+}
+.time{
+    color: #888888;
+    text-align: center;
+    font-size: 12px;
+}
+.one{
+    text-indent: 2em;
+    line-height: 26px;
+}
+.img{
+    text-align: center;
+}
+.two{
+    color: #888888;
+    font-size: 12px;
+}
